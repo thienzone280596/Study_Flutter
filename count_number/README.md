@@ -1,16 +1,22 @@
-# count_number
+# 📱 Project 1 - Counter App
 
-A new Flutter project.
+Đây là một ứng dụng Flutter đơn giản dùng để **đếm số lần nhấn nút**. Dự án này giúp bạn làm quen với các khái niệm cơ bản trong Flutter:
 
-## Getting Started
+- `StatelessWidget` vs `StatefulWidget`
+- Sử dụng `setState()` để cập nhật giao diện
+- Cấu trúc dự án Flutter
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Mục tiêu học tập
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Phân biệt `StatelessWidget` và `StatefulWidget`
+- Quản lý trạng thái cục bộ với `setState()`
+- Làm quen với hot reload trong Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Giao diện
+
+Ứng dụng hiển thị một số ở giữa màn hình và một nút để tăng số đó lên mỗi lần nhấn.
+
